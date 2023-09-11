@@ -6,7 +6,7 @@ function Header() {
     <header className="py-4 w-full absolute top-0">
       <div className="container flex justify-between items-center">
         <a href="" className="font-futuraXBlkBT text-3xl font-bold">
-          Zegladiod 3ZX
+          Zegladoid 3ZX
         </a>
         <button className="transition hover:scale-90 cursor-pointer">
           <img src={menu} alt="" />
