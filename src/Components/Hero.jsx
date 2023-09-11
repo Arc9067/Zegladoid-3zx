@@ -11,9 +11,8 @@ function Hero() {
           <span className="block mt-3 text-white">3ZX</span>
         </h1>
         <p className="max-w-[500px] text-center text-white text-base font-normal leading-loose tracking-tight">
-          The project is fully decentralized and community based. We just do our
-          best to keep everyone together as an army. If you want to do something
-          then do it, if{" "}
+          A whimsical army was created and Zegladoids are among a rare breed of
+          ancient extraterrestrials that started roaming the earth.{" "}
         </p>
         <div className="flex-wrap font-bold !font-futuraXBlkBT justify-center flex-col md:flex-row items-stretch gap-3.5 flex">
           <a
@@ -33,7 +32,7 @@ function Hero() {
             </div>
           </a>
           <a
-            href=""
+            href="https://t.me/Zegladoid"
             className="h-14 px-8 py-4 bg-amber-500 rounded-full justify-center items-center gap-2.5 flex"
           >
             <div className="text-white text-base font-bold leading-snug tracking-tight">

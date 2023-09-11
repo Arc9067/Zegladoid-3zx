@@ -1,5 +1,6 @@
 import React from "react";
 import Token from "../assets/Mics.svg";
+import Token2 from "../assets/Mics2.svg";
 
 function Mics() {
   return (
@@ -22,9 +23,7 @@ function Mics() {
 
         <article className="grid grid-cols-2 justify-center items-center gap-8 flex-wrap">
           <img src={Token} alt="" />
-          <img src={Token} alt="" />
-          <img src={Token} alt="" />
-          <img src={Token} alt="" />
+          <img src={Token2} alt="" />
         </article>
       </div>
     </section>

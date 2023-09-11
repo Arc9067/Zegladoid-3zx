@@ -11,17 +11,16 @@ function About() {
         >
           <article className="flex flex-col gap-3">
             <h2 className="text-white text-2xl font-futuraXBlkBT font-bold">
-              Fully Decentralized
+              The beginning{" "}
             </h2>
             <h1 className="text-white text-4xl md:text-5xl font-futuraXBlkBT font-bold ">
-              Online Cryptocurrency Fighting Platform
+              Glitch In The Matrix{" "}
             </h1>
             <p className="max-w-[500px] text-white text-base font-normal leading-loose tracking-tight">
-              The project is fully decentralized and community based. We just do
-              our best to keep everyone together as an army. If you want to do
-              something then do it, if someone asks for a hand out you can tell
-              them that Pepe never paid for a thing. The project is fully
-              decentralized and community based.{" "}
+              Zegladoids are among the rarest species mankind has ever known to
+              see! They are a towering 13ft tall as adolescents and can reach
+              heights of up to 32ft. They’ve come from a newly named planet
+              known as ZOGZ which houses 111 different species.
             </p>
           </article>
           <img src={logo} alt="" />

@@ -16,8 +16,7 @@ function Footer() {
           <article className="flex flex-col gap-3 items-start">
             <img src={logo} alt="" />
             <p className="max-w-[500px] text-white text-base font-normal leading-loose tracking-tight">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit.
-              Praesentium eius et modi omnis assumenda dolorum.
+              Looking to join our army of Zegladoids?
             </p>
           </article>
 
@@ -26,7 +25,7 @@ function Footer() {
               JOIN OUR COMMUNITY
             </h1>
             <div className="flex items-center gap-4">
-              <a href="">
+              <a href="https://t.me/Zegladoid">
                 <img src={telegram} alt="" />
               </a>
               <a href="">
