@@ -28,7 +28,7 @@ function Footer() {
               <a href="https://t.me/Zegladoid">
                 <img src={telegram} alt="" />
               </a>
-              <a href="">
+              <a href="https://twitter.com/Zegladoid">
                 <img src={twitter} alt="" />
               </a>{" "}
               <a href="">

@@ -24,7 +24,7 @@ function Hero() {
             </div>
           </a>
           <a
-            href=""
+            href="https://twitter.com/Zegladoid"
             className="h-14 px-8 py-4 bg-red-700 rounded-full justify-center items-center gap-2.5 flex"
           >
             <div className="text-white text-base font-bold leading-snug tracking-tight">
